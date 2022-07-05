@@ -1,0 +1,184 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.7.4)  5 JUL 2022 11:52
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Liederbuch.tex
+(./Liederbuch.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@chapter=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+))
+(/usr/share/texlive/texmf-dist/tex/latex/songs/songs.sty
+Package: songs 2018/09/12 v3.1 Songs package
+\SB@dimen=\dimen135
+\SB@dimenii=\dimen136
+\SB@dimeniii=\dimen137
+\SB@dimeniv=\dimen138
+\SB@box=\box45
+\SB@boxii=\box46
+\SB@boxiii=\box47
+\SB@toks=\toks14
+\SB@cnt=\count176
+\SB@cntii=\count177
+\SB@skip=\skip49
+\SB@envbox=\box48
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+\c@songnum=\count178
+\c@versenum=\count179
+\versesep=\skip50
+\afterpreludeskip=\skip51
+\beforepostludeskip=\skip52
+\baselineadj=\skip53
+\idxheadwidth=\skip54
+\songnumwidth=\skip55
+\versenumwidth=\skip56
+\cbarwidth=\skip57
+\sbarheight=\skip58
+\vvpenalty=\count180
+\ccpenalty=\count181
+\vcpenalty=\count182
+\cvpenalty=\count183
+\brkpenalty=\count184
+\spenalty=\count185
+\minfrets=\count186
+\SB@colwidth=\dimen139
+\SB@songbox=\box49
+\SB@numcols=\count187
+\SB@colnum=\count188
+\SB@colbox=\box50
+\SB@pgbox=\box51
+\SB@mrkbox=\box52
+\SB@groupcnt=\count189
+\SB@titlelist=\toks16
+\SB@titletail=\toks17
+\SB@parindent=\dimen140
+\SB@chorusbox=\box53
+\SB@cmarkclass=\marks1
+\SB@nocmarkclass=\marks2
+\SB@grouplvl=\count190
+\SB@transposefactor=\count191
+\SB@lyric=\toks18
+\SB@numhyps=\count192
+\SB@lyricnohyp=\toks19
+\SB@lyricbox=\box54
+\SB@chordbox=\box55
+\SB@cr@=\toks20
+\SB@ctail=\toks21
+\SB@fretwidth=\skip59
+\SB@tabindent=\dimen141
+\c@SB@songsnum=\count193
+\SB@songwrites=\box56
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 3785.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 3785.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 3785.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 3785.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)))
+\SB@out=\write3
+\openout3 = `Liederbuch.sxc'.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count194
+\l__pdf_internal_box=\box57
+)
+(./Liederbuch.aux)
+\openout1 = `Liederbuch.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count195
+\scratchdimen=\dimen142
+\scratchbox=\box58
+\nofMPsegments=\count196
+\nofMParguments=\count197
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count198
+\MPscratchDim=\dimen143
+\MPnumerator=\count199
+\makeMPintoPDFobject=\count266
+\everyMPtoPDFconversion=\toks23
+) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+] [2
+
+]
+\openout3 = `idxfile.sxd'.
+
+ (./Liederbuch.sxc) (./Liederbuch.aux) ) 
+Here is how much of TeX's memory you used:
+ 1860 strings out of 481239
+ 24142 string characters out of 5920378
+ 268434 words of memory out of 5000000
+ 17159 multiletter control sequences out of 15000+600000
+ 539327 words of font info for 46 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 32i,5n,25p,194b,299s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmssi12.pfb>
+Output written on Liederbuch.pdf (2 pages, 43565 bytes).
+PDF statistics:
+ 27 PDF objects out of 1000 (max. 8388607)
+ 18 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
